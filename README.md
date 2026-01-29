@@ -1,250 +1,241 @@
-# 💼 Roushan Kumar Gupta  
-### Operations & Project Management Executive  
-#### *Bridging Construction Expertise with Tech-Driven Solutions*  
+💼 Roushan Kumar Gupta
+Operations & Project Management Executive
+Construction Expertise × Tech Innovation × Data Intelligence
+<div align="center"><!-- Replace with your banner image -->
+https://raw.githubusercontent.com/roushan62/roushan62/main/assets/banner-tech-construction.svg
 
----
+<!-- Metrics Dashboard -->
+https://komarev.com/ghpvc/?username=roushan62&color=0066ff&style=for-the-badge&label=PROFILE+VIEWS
+https://img.shields.io/github/followers/roushan62?color=00cc88&label=FOLLOWERS&style=for-the-badge
+https://img.shields.io/github/stars/roushan62?color=ffcc00&label=STARS&style=for-the-badge
+https://img.shields.io/badge/%F0%9F%9A%80_ACTIVELY_BUILDING-00cc88?style=for-the-badge&logo=vercel&logoColor=white
 
+</div>
+🎯 Executive Summary
+python
+class OperationsManager:
+    def __init__(self):
+        self.name = "Roushan Kumar Gupta"
+        self.role = "Operations & Project Management Executive"
+        self.expertise = {
+            "domain": ["Construction", "Industrial Maintenance", "Scaffolding"],
+            "tech": ["Data Analytics", "ERP Systems", "Process Automation"],
+            "management": ["Project Lifecycle", "Cost Optimization", "Safety Compliance"]
+        }
+        self.tech_stack = ["Power BI", "SQL", "Python", "Tally ERP", "SAP", "Excel Automation"]
+        self.metrics = {
+            "project_success": "98%",
+            "cost_saving": "25%+",
+            "safety_compliance": "100%"
+        }
+    
+    def deliver(self):
+        return "End-to-end project optimization through data-driven decision making"
+📊 Performance Dashboard
 <div align="center">
-
-![Profile Banner](https://raw.githubusercontent.com/roushan62/roushan62/main/assets/banner-gradient.svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=roushan62&color=00aaff&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/roushan62?color=00cc88&style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20OPPORTUNITIES-00aaff?style=flat-square)
+KPI	Current	Target	Trend
+Project Completion	98%	95%	📈 +3%
+Cost Optimization	94%	90%	📈 +4%
+Safety Compliance	100%	100%	✅
+Process Efficiency	96%	92%	📈 +4%
+Client Satisfaction	97%	95%	📈 +2%
+<!-- Replace with your custom dashboard image -->
+https://via.placeholder.com/800x300/0d1117/00aaff?text=CUSTOM+DASHBOARD+SCREENSHOT+ADD+HERE
 
 </div>
+🏗️ Domain Expertise Matrix
 
----
 
-## 📊 Professional Dashboard
 
+
+
+
+
+
+
+
+
+
+
+💻 Technology Stack
+📈 Data Analytics & Visualization
 <div align="center">
-
-| **Metric** | **Status** | **Progress** |
-|------------|------------|--------------|
-| **Project Completion** | 98% | ![Progress](https://progress-bar.dev/98/?width=200&color=00cc88) |
-| **Cost Optimization** | 94% | ![Progress](https://progress-bar.dev/94/?width=200&color=0066ff) |
-| **Safety Compliance** | 100% | ![Progress](https://progress-bar.dev/100/?width=200&color=ff6600) |
-| **Tech Integration** | 96% | ![Progress](https://progress-bar.dev/96/?width=200&color=aa66ff) |
+https://img.shields.io/badge/POWER_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+https://img.shields.io/badge/EXCEL_AUTOMATION-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+https://img.shields.io/badge/SQL_QUERYING-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PYTHON_SCRIPTING-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/POWER_QUERY-Advanced-0078D4?style=for-the-badge&logo=microsoft-powerquery&logoColor=white
 
 </div>
-
----
-
-## 🎯 Core Competencies Matrix
-
+🏢 ERP & Business Systems
 <div align="center">
-
-```mermaid
-quadrantChart
-    title "Expertise Quadrant Analysis"
-    x-axis "Construction Focus" → "Tech Focus"
-    y-axis "Operational" → "Strategic"
-    "Project Management": [0.7, 0.8]
-    "Safety Compliance": [0.6, 0.9]
-    "Data Analytics": [0.9, 0.7]
-    "ERP Systems": [0.85, 0.6]
-    "Site Operations": [0.4, 0.8]
-    "Process Automation": [0.9, 0.5]
-```
+https://img.shields.io/badge/TALLY_ERP_9-Expert-FF6F61?style=for-the-badge&logoColor=white
+https://img.shields.io/badge/SAP_MM_Module-Intermediate-000000?style=for-the-badge&logo=sap&logoColor=white
+https://img.shields.io/badge/ODOO_ERP-Intermediate-EE6A56?style=for-the-badge&logo=odoo&logoColor=white
+https://img.shields.io/badge/ZOHO_ONE-Advanced-F0652A?style=for-the-badge&logo=zoho&logoColor=white
+https://img.shields.io/badge/ORACLE_DB-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white
 
 </div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 📊 **Data & Analytics**
+⚙️ Project Management Tools
 <div align="center">
-
-![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-Advanced-0078D4?style=for-the-badge&logo=microsoft-powerquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+https://img.shields.io/badge/MS_PROJECT-Advanced-2B579A?style=for-the-badge&logo=microsoft-project&logoColor=white
+https://img.shields.io/badge/QUICKBOOKS-Advanced-36B15C?style=for-the-badge&logo=quickbooks&logoColor=white
+https://img.shields.io/badge/AUTOCAD_Basics-0696D7?style=for-the-badge&logo=autodesk&logoColor=white
+https://img.shields.io/badge/GOOGLE_WORKSPACE-Expert-4285F4?style=for-the-badge&logo=google&logoColor=white
 
 </div>
+🚀 Featured Projects
+Project 1: Industrial Operations Dashboard
+https://via.placeholder.com/600x300/0d1117/00aaff?text=CLICK+FOR+LIVE+DASHBOARD
 
-### 🏗️ **ERP & Business Systems**
-<div align="center">
+javascript
+// Tech Stack Used
+const project1 = {
+    frontend: ["Power BI", "DAX", "Custom Visuals"],
+    backend: ["SQL Server", "Excel Power Query"],
+    features: [
+        "Real-time project tracking",
+        "Cost vs Budget analysis",
+        "Safety compliance monitoring",
+        "Automated reporting"
+    ],
+    impact: "Reduced manual reporting by 15 hours/week"
+};
+Project 2: ERP Integration Module
+https://via.placeholder.com/600x300/0d1117/00cc88?text=ERP+INTEGRATION+ARCHITECTURE
 
-![Tally](https://img.shields.io/badge/Tally_ERP_9-Expert-FF6F61?style=for-the-badge&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-Intermediate-000000?style=for-the-badge&logo=sap&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-Intermediate-EE6A56?style=for-the-badge&logo=odoo&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho_One-Advanced-F0652A?style=for-the-badge&logo=zoho&logoColor=white)
+python
+# Integration Flow
+class ERPIntegration:
+    def __init__(self):
+        self.source_systems = ["Tally", "SAP", "Zoho"]
+        self.destination = "Power BI Dashboard"
+        self.automation_level = "Fully Automated"
+    
+    def data_pipeline(self):
+        return "Tally → SQL → Power Query → Power BI → Automated Reports"
+    
+    def benefits(self):
+        return {
+            "time_saved": "20+ hours monthly",
+            "accuracy": "99.8% data consistency",
+            "realtime": "Live dashboard updates"
+        }
+Project 3: Safety Compliance System
+https://via.placeholder.com/600x300/0d1117/ff6600?text=SAFETY+COMPLIANCE+DASHBOARD
 
-</div>
+sql
+-- Sample Query from Safety Database
+SELECT 
+    project_name,
+    safety_score,
+    inspection_count,
+    incident_count,
+    compliance_percentage
+FROM safety_metrics
+WHERE inspection_date >= DATEADD(month, -1, GETDATE())
+ORDER BY compliance_percentage DESC;
+📈 GitHub Analytics
+<div align="center"><!-- GitHub Stats Cards -->
+https://github-readme-stats.vercel.app/api?username=roushan62&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00cc88&text_color=ffffff&border_radius=10&custom_title=GitHub+Analytics
 
-### 📈 **Productivity Suite**
-<div align="center">
+https://github-readme-streak-stats.herokuapp.com/?user=roushan62&theme=radical&hide_border=true&background=0d1117&ring=00aaff&fire=00cc88&currStreakLabel=00aaff&border_radius=10
 
-![Office365](https://img.shields.io/badge/Microsoft_365-Expert-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-Advanced-36B15C?style=for-the-badge&logo=quickbooks&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-Expert-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Project](https://img.shields.io/badge/Project_Management-Tools-2B579A?style=for-the-badge&logo=microsoft-project&logoColor=white)
+https://github-readme-stats.vercel.app/api/top-langs/?username=roushan62&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=ffffff&border_radius=10&langs_count=8
 
-</div>
-
----
-
-## 🏆 Project Highlights
-
-<div class="project-grid" align="center">
-
-| **Project** | **Type** | **Role** | **Tech Used** | **Impact** |
-|-------------|----------|----------|---------------|------------|
-| **Industrial Scaffolding** | Construction | Lead Manager | Excel, Power BI | 30% Time Reduction |
-| **ERP Implementation** | Digital Transformation | Coordinator | Tally, Zoho | 25% Cost Saving |
-| **Safety Dashboard** | Analytics | Developer | Power BI, SQL | 40% Compliance↑ |
-| **Automated Reporting** | Process Automation | Architect | Excel, Power Query | 20hrs/week Saved |
-
-</div>
-
----
-
-## 📈 Experience Timeline
-
-```mermaid
-timeline
-    title Professional Journey
-    section 2023-Present
-        John Tech Engineers : Operations Executive
-        : ERP Implementation
-        : Safety Dashboard Development
-        : Project Cost Optimization
-    section 2021-2023
-        Skill Development : Certifications
-        : Advanced Excel
-        : Power BI Mastery
-        : Tally ERP 9
-    section Education
-        B.Com (Ongoing) : IGNOU
-        12th Science : Bihar Board
-```
-
----
-
-## 🎓 Education & Certifications
-
-<div class="cert-grid" align="center">
-
-| **Qualification** | **Institution** | **Year** | **Status** |
-|-------------------|-----------------|----------|------------|
-| **B.Com** | IGNOU | 2025 (Expected) | 🟢 In Progress |
-| **12th Science** | Bihar Board | 2021 | ✅ Completed |
-| **Process Safety Management** | Skill India (NSDC) | 2023 | 🏅 Certified |
-| **Power BI Advanced** | Microsoft Learn | 2023 | 🏅 Certified |
-| **Tally ERP + GST** | Tally Academy | 2023 | 🏅 Certified |
+<!-- Activity Graph -->
+https://github-readme-activity-graph.vercel.app/graph?username=roushan62&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution+Activity
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Roushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roushan62&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00cc88&text_color=ffffff&border_radius=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roushan62&theme=radical&hide_border=true&background=0d1117&ring=00aaff&fire=00cc88&currStreakLabel=00aaff&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roushan62&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=ffffff&border_radius=10&langs_count=8)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div class="projects-showcase" align="center">
-
-### 🏗️ **Project Management Dashboard**
-![Dashboard Preview](https://via.placeholder.com/400x200/0d1117/00aaff?text=Project+Dashboard+Preview)
-*Real-time project tracking with Power BI*
-
-### 📊 **Safety Compliance System**
-![Safety System](https://via.placeholder.com/400x200/0d1117/00cc88?text=Safety+Compliance+Dashboard)
-*Automated safety monitoring and reporting*
-
-### 💼 **ERP Integration Module**
-![ERP Module](https://via.placeholder.com/400x200/0d1117/ff6600?text=ERP+Integration+Module)
-*Seamless Tally to Power BI integration*
-
-</div>
-
----
-
-## 📞 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roushan-kumar-7bb400239)
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roushank2515@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/roushan.dev01)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roushan62)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%2300aaff?style=for-the-badge&logo=about.me&logoColor=white)](https://roushan62.github.io)
-
-</div>
-
----
-
-## 📬 Let's Collaborate
-
-<div align="center">
-
-```yaml
-available_for: 
-  - Full-time Positions
-  - Project Consultancy
-  - ERP Implementation
-  - Dashboard Development
-  - Process Automation
+🏆 Experience Timeline
+📚 Learning & Development
+yaml
+current_focus:
+  - technology: "Python for Data Science"
+    resources: ["Real Python", "DataCamp", "Kaggle"]
+    projects: ["Automated Reporting Scripts", "Data Analysis Tools"]
+    
+  - certifications:
+    - name: "Microsoft Power BI Certification"
+      status: "In Progress"
+      expected: "March 2024"
+    
+    - name: "Project Management Professional (PMP)"
+      status: "Planning"
+      expected: "2024 Q4"
   
-preferred_domains:
-  - Construction Tech
-  - Industrial Operations
-  - Project Management
-  - Business Intelligence
-  - Operational Excellence
-  
-location: Gujarat, India (Open to Relocation)
-status: Actively Seeking Opportunities
-response_time: Within 24 hours
-```
+  - skills_roadmap:
+    quarter_1: ["Advanced SQL", "Power BI Service"]
+    quarter_2: ["Python Pandas", "Azure Fundamentals"]
+    quarter_3: ["Data Engineering Basics", "Cloud Computing"]
+    quarter_4: ["Machine Learning Basics", "Advanced Analytics"]
+🌐 Connect & Collaborate
+<div align="center"><!-- Replace # with your actual links -->
+https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/SEND_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/VIEW_PORTFOLIO-00aaff?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/EXPLORE_REPOS-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/DOWNLOAD_RESUME-008080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white
 
 </div>
+📬 Let's Build Together
+javascript
+const collaborationOpportunities = {
+    openFor: [
+        "Full-time Operations Roles",
+        "Project Management Contracts",
+        "ERP Implementation Projects",
+        "Dashboard Development",
+        "Process Automation Consulting"
+    ],
+    
+    industries: [
+        "Construction Technology",
+        "Industrial Operations",
+        "Manufacturing",
+        "Infrastructure Development",
+        "Business Intelligence"
+    ],
+    
+    techStack: [
+        "Power BI + SQL + Excel",
+        "Tally/SAP Integration",
+        "Process Automation",
+        "Data Pipeline Development"
+    ],
+    
+    getInTouch: function() {
+        return {
+            email: "roushank2515@gmail.com",
+            linkedin: "https://linkedin.com/in/roushan-kumar-7bb400239",
+            responseTime: "Within 24 hours",
+            availability: "Immediate"
+        };
+    }
+};
 
----
+console.log("Ready to optimize your operations with data-driven solutions!");
+<div align="center"><!-- Footer with animated text -->
+https://raw.githubusercontent.com/roushan62/roushan62/main/assets/animated-footer.svg
 
-<div align="center">
+📈 Transforming Data into Operational Excellence
+Building bridges between construction sites and data centers
 
-![Footer](https://raw.githubusercontent.com/roushan62/roushan62/main/assets/footer-wave.svg)
+https://api.star-history.com/svg?repos=roushan62/roushan62&type=Date
 
-**"Transforming Construction Operations with Data-Driven Intelligence"**
-
-⭐ *Star my repositories if you find them useful!*  
-📧 *Feel free to reach out for collaboration or opportunities*
+⭐ Star this repository to support my journey!
+🔄 Updated automatically with GitHub Actions
+🚀 Next Goal: 100 GitHub Stars
 
 </div>
+<div align="right">
+Last Updated: ${new Date().toLocaleDateString('en-IN', {
+weekday: 'long',
+year: 'numeric',
+month: 'long',
+day: 'numeric'
+})}
 
----
+https://profile-counter.glitch.me/roushan62/count.svg
 
-*Last Updated: January 2024 | Profile Version: 2.0 | Theme: Professional Tech-Blue*
-
-<style>
-  .project-grid, .cert-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    margin: 30px 0;
-  }
-  
-  .projects-showcase {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    margin: 30px 0;
-  }
-</style>
+</div>

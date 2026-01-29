@@ -1,634 +1,406 @@
-# 🚀 **ROUSHAN KUMAR GUPTA**  
-### **Operations & Project Management Visionary**  
-#### *Industrial Expertise × Digital Transformation × Operational Excellence*  
-
----
-
-<div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0ea5e9 100%); padding: 3rem; border-radius: 20px; box-shadow: 0 20px 60px rgba(0, 163, 255, 0.3); position: relative; overflow: hidden;">
-
-<!-- Animated Construction/Data Background -->
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.1;">
-  <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
-        <path d="M 50 0 L 0 0 0 50" fill="none" stroke="white" stroke-width="2"/>
-      </pattern>
-      <pattern id="data" width="100" height="100" patternUnits="userSpaceOnUse">
-        <circle cx="50" cy="50" r="2" fill="#0ea5e9"/>
-        <path d="M20,80 L80,20" stroke="#10b981" stroke-width="1"/>
-        <path d="M30,70 L70,30" stroke="#8b5cf6" stroke-width="1"/>
-      </pattern>
-    </defs>
-    <rect width="100%" height="100%" fill="url(#grid)"/>
-    <rect width="100%" height="100%" fill="url(#data)"/>
-  </svg>
-</div>
-
-<!-- Animated Typing Header -->
-<div style="position: relative; z-index: 2;">
-  <h1 style="color: white; font-size: 3rem; margin-bottom: 1rem; text-shadow: 0 2px 10px rgba(0,0,0,0.3);">
-    <span id="typing-title"></span><span id="cursor">|</span>
-  </h1>
-  <div id="typing-subtitle" style="color: rgba(255,255,255,0.9); font-size: 1.5rem; margin-bottom: 2rem;"></div>
-</div>
-
-<!-- Animated Stats Counter -->
-<div style="display: flex; justify-content: center; gap: 3rem; flex-wrap: wrap; position: relative; z-index: 2;">
-  <div class="stat-counter">
-    <div class="counter" data-target="50">0</div>
-    <div class="stat-label">Projects Managed</div>
-  </div>
-  <div class="stat-counter">
-    <div class="counter" data-target="25">0</div>
-    <div class="stat-label">Cost Reduction %</div>
-  </div>
-  <div class="stat-counter">
-    <div class="counter" data-target="100">0</div>
-    <div class="stat-label">Safety Compliance</div>
-  </div>
-  <div class="stat-counter">
-    <div class="counter" data-target="500">0</div>
-    <div class="stat-label">Hours Automated</div>
-  </div>
-</div>
-
-</div>
-
----
-
-## 🎯 **OPERATIONAL EXCELLENCE MATRIX**
-
-<div align="center" style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 2rem; margin: 2rem 0; border: 1px solid rgba(255,255,255,0.1);">
-
-<!-- Animated Radial Skills Chart -->
-<div style="max-width: 800px; margin: 0 auto;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem;">
-    
-    <!-- Construction Expertise -->
-    <div class="skill-radial" style="position: relative;">
-      <svg width="120" height="120" viewBox="0 0 120 120">
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#1e293b" stroke-width="12"/>
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#0ea5e9" stroke-width="12" 
-                stroke-dasharray="339.292" stroke-dashoffset="34" stroke-linecap="round"
-                style="animation: fill-90 2s ease-out forwards; transform-origin: center; transform: rotate(-90deg);"/>
-      </svg>
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-        <div style="font-size: 1.5rem; color: white; font-weight: bold;">90%</div>
-        <div style="font-size: 0.8rem; color: rgba(255,255,255,0.8);">Construction</div>
-      </div>
-    </div>
-    
-    <!-- Tech Expertise -->
-    <div class="skill-radial" style="position: relative;">
-      <svg width="120" height="120" viewBox="0 0 120 120">
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#1e293b" stroke-width="12"/>
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#10b981" stroke-width="12" 
-                stroke-dasharray="339.292" stroke-dashoffset="68" stroke-linecap="round"
-                style="animation: fill-80 2s ease-out forwards; transform-origin: center; transform: rotate(-90deg);"/>
-      </svg>
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-        <div style="font-size: 1.5rem; color: white; font-weight: bold;">80%</div>
-        <div style="font-size: 0.8rem; color: rgba(255,255,255,0.8);">Tech Stack</div>
-      </div>
-    </div>
-    
-    <!-- Operations Expertise -->
-    <div class="skill-radial" style="position: relative;">
-      <svg width="120" height="120" viewBox="0 0 120 120">
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#1e293b" stroke-width="12"/>
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#8b5cf6" stroke-width="12" 
-                stroke-dasharray="339.292" stroke-dashoffset="17" stroke-linecap="round"
-                style="animation: fill-95 2s ease-out forwards; transform-origin: center; transform: rotate(-90deg);"/>
-      </svg>
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-        <div style="font-size: 1.5rem; color: white; font-weight: bold;">95%</div>
-        <div style="font-size: 0.8rem; color: rgba(255,255,255,0.8);">Operations</div>
-      </div>
-    </div>
-    
-    <!-- Safety Expertise -->
-    <div class="skill-radial" style="position: relative;">
-      <svg width="120" height="120" viewBox="0 0 120 120">
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#1e293b" stroke-width="12"/>
-        <circle cx="60" cy="60" r="54" fill="none" stroke="#ec4899" stroke-width="12" 
-                stroke-dasharray="339.292" stroke-dashoffset="0" stroke-linecap="round"
-                style="animation: fill-100 2s ease-out forwards; transform-origin: center; transform: rotate(-90deg);"/>
-      </svg>
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-        <div style="font-size: 1.5rem; color: white; font-weight: bold;">100%</div>
-        <div style="font-size: 0.8rem; color: rgba(255,255,255,0.8);">Safety</div>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-</div>
-
----
-
-## 🛠️ **TECHNOLOGY ECOSYSTEM**
-
-<div align="center" style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 2rem; margin: 2rem 0; border: 1px solid rgba(255,255,255,0.1);">
-
-<!-- Animated Tool Stack -->
-<div class="tool-stack">
-  
-  <!-- Data Analytics -->
-  <div class="tech-category">
-    <h3 style="color: #0ea5e9; border-left: 4px solid #0ea5e9; padding-left: 1rem;">📊 Data Analytics</h3>
-    <div class="tech-tags">
-      <span class="tech-tag" style="background: linear-gradient(135deg, #1e3a8a, #3b82f6);">Power BI Pro</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #166534, #22c55e);">Advanced Excel</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #7c2d12, #ea580c);">Power Query</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #374151, #6b7280);">SQL Databases</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #1e40af, #60a5fa);">Python Data</span>
-    </div>
-  </div>
-  
-  <!-- ERP Systems -->
-  <div class="tech-category">
-    <h3 style="color: #10b981; border-left: 4px solid #10b981; padding-left: 1rem;">🏢 ERP Systems</h3>
-    <div class="tech-tags">
-      <span class="tech-tag" style="background: linear-gradient(135deg, #7c2d12, #ea580c);">Tally Prime</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #0f766e, #14b8a6);">SAP Modules</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #7c3aed, #a78bfa);">Odoo ERP</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #ea580c, #fb923c);">Zoho One</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #991b1b, #dc2626);">Oracle Netsuite</span>
-    </div>
-  </div>
-  
-  <!-- Construction Tech -->
-  <div class="tech-category">
-    <h3 style="color: #8b5cf6; border-left: 4px solid #8b5cf6; padding-left: 1rem;">🏗️ Construction Tech</h3>
-    <div class="tech-tags">
-      <span class="tech-tag" style="background: linear-gradient(135deg, #1e3a8a, #3b82f6);">AutoCAD Basic</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #166534, #22c55e);">MS Project</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #7c2d12, #ea580c);">Primavera P6</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #374151, #6b7280);">BOQ Software</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #1e40af, #60a5fa);">Estimation Tools</span>
-    </div>
-  </div>
-  
-  <!-- Safety & Compliance -->
-  <div class="tech-category">
-    <h3 style="color: #ec4899; border-left: 4px solid #ec4899; padding-left: 1rem;">🛡️ Safety Systems</h3>
-    <div class="tech-tags">
-      <span class="tech-tag" style="background: linear-gradient(135deg, #7c2d12, #ea580c);">PSM Tools</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #166534, #22c55e);">PTW Systems</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #1e3a8a, #3b82f6);">Risk Assessment</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #7c3aed, #a78bfa);">ISO Compliance</span>
-      <span class="tech-tag" style="background: linear-gradient(135deg, #374151, #6b7280);">Audit Software</span>
-    </div>
-  </div>
-
-</div>
-
-</div>
-
----
-
-## 📊 **REAL-TIME PERFORMANCE DASHBOARD**
+# 💼 Roushan Kumar Gupta  
+### Operations & Project Management Executive 👷‍♂️💻  
+`Construction | Industrial Maintenance | Tech-Driven Operations`
 
 <div align="center">
 
-<!-- Animated Progress Bars -->
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 2rem; margin: 2rem 0; border: 1px solid rgba(255,255,255,0.1);">
-
-<div class="progress-section">
-  <div class="progress-header">
-    <span>Project Management Efficiency</span>
-    <span>95%</span>
-  </div>
-  <div class="progress-bar">
-    <div class="progress-fill" style="width: 95%; background: linear-gradient(90deg, #0ea5e9, #3b82f6);"></div>
-  </div>
-</div>
-
-<div class="progress-section">
-  <div class="progress-header">
-    <span>Cost Optimization</span>
-    <span>88%</span>
-  </div>
-  <div class="progress-bar">
-    <div class="progress-fill" style="width: 88%; background: linear-gradient(90deg, #10b981, #22c55e);"></div>
-  </div>
-</div>
-
-<div class="progress-section">
-  <div class="progress-header">
-    <span>Process Automation</span>
-    <span>92%</span>
-  </div>
-  <div class="progress-bar">
-    <div class="progress-fill" style="width: 92%; background: linear-gradient(90deg, #8b5cf6, #a78bfa);"></div>
-  </div>
-</div>
-
-<div class="progress-section">
-  <div class="progress-header">
-    <span>Safety Compliance Rate</span>
-    <span>100%</span>
-  </div>
-  <div class="progress-bar">
-    <div class="progress-fill" style="width: 100%; background: linear-gradient(90deg, #ec4899, #f472b6);"></div>
-  </div>
-</div>
-
-</div>
+![Profile Banner](https://github-readme-banner.vercel.app/api?title=ROUSHAN%20KUMAR%20GUPTA&subtitle=Ops%20%26%20Project%20Management%20Executive&desc=Blending%20Construction%20%2B%20Tech%20%2B%20Data%20for%20Operational%20Excellence&bg=linear-gradient(135deg, #0f2027, #203a43, #2c5364)&border=2&borderColor=00d4ff&pattern=topography&animation=slideIn)
 
 </div>
 
 ---
 
-## 🌟 **PREMIUM GITHUB STATS**
+## 🚀 Professional Summary
+<div align="center">
 
-<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); border-radius: 20px; padding: 2rem; margin: 2rem 0;">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
-
-<!-- Stats Card 1 -->
-<div style="background: linear-gradient(135deg, rgba(14, 165, 233, 0.1), rgba(59, 130, 246, 0.1)); border-radius: 15px; padding: 1.5rem; border: 1px solid rgba(14, 165, 233, 0.3);">
-  <h3 style="color: #0ea5e9; margin-bottom: 1rem;">🚀 GitHub Velocity</h3>
-  <div style="font-size: 2rem; color: white; font-weight: bold;">42</div>
-  <div style="color: rgba(255,255,255,0.8);">Weekly Contributions</div>
-</div>
-
-<!-- Stats Card 2 -->
-<div style="background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(34, 197, 94, 0.1)); border-radius: 15px; padding: 1.5rem; border: 1px solid rgba(16, 185, 129, 0.3);">
-  <h3 style="color: #10b981; margin-bottom: 1rem;">📚 Repositories</h3>
-  <div style="font-size: 2rem; color: white; font-weight: bold;">18</div>
-  <div style="color: rgba(255,255,255,0.8);">Active Projects</div>
-</div>
-
-<!-- Stats Card 3 -->
-<div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(167, 139, 250, 0.1)); border-radius: 15px; padding: 1.5rem; border: 1px solid rgba(139, 92, 246, 0.3);">
-  <h3 style="color: #8b5cf6; margin-bottom: 1rem;">⭐ Stars Earned</h3>
-  <div style="font-size: 2rem; color: white; font-weight: bold;">156</div>
-  <div style="color: rgba(255,255,255,0.8);">Community Recognition</div>
-</div>
-
-<!-- Stats Card 4 -->
-<div style="background: linear-gradient(135deg, rgba(236, 72, 153, 0.1), rgba(244, 114, 182, 0.1)); border-radius: 15px; padding: 1.5rem; border: 1px solid rgba(236, 72, 153, 0.3);">
-  <h3 style="color: #ec4899; margin-bottom: 1rem;">📈 Activity Streak</h3>
-  <div style="font-size: 2rem; color: white; font-weight: bold;">87</div>
-  <div style="color: rgba(255,255,255,0.8);">Consecutive Days</div>
-</div>
-
-</div>
-
-<!-- GitHub Stats Graphs -->
-<div style="margin-top: 2rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roushan62&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=10b981&text_color=ffffff&border_radius=15&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roushan62&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&border_radius=15&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=roushan62&theme=radical&hide_border=true&background=0D1117&border_radius=15&stroke=0EA5E9&ring=10B981&fire=EC4899&currStreakNum=FFFFFF&sideNums=0EA5E9&currStreakLabel=8B5CF6&sideLabels=10B981&dates=94A3B8)
-
-</div>
+```javascript
+const profile = {
+  role: "Operations & Project Management Executive",
+  expertise: [
+    "End-to-End Project Management",
+    "Industrial & Construction Operations",
+    "Tech-Driven Automation & Dashboards",
+    "Safety & Compliance Systems"
+  ],
+  approach: "Bridging on-site construction expertise with digital transformation",
+  techStack: ["Excel", "Power BI", "SQL", "ERP Systems", "Dashboard Automation"]
+};
+```
 
 </div>
 
 ---
 
-## 🔗 **CONNECT WITH ME**
+## 🛠️ **Core Competencies Dashboard**
 
-<div align="center" style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 2rem; margin: 2rem 0; border: 1px solid rgba(255,255,255,0.1);">
+### 📊 **Project & Operations Management**
+```mermaid
+gantt
+    title Project Lifecycle Management
+    dateFormat  YYYY-MM-DD
+    section Planning
+    BOQ & Quotations   :2024-01-01, 15d
+    Resource Planning  :2024-01-16, 10d
+    section Execution
+    Site Supervision   :2024-01-26, 30d
+    Quality Control    :2024-02-25, 20d
+    section Delivery
+    Billing & MIS      :2024-03-16, 15d
+    Client Handover   :2024-04-01, 10d
+```
 
-<!-- Animated Connection Grid -->
-<div class="connection-grid">
-  
-  <a href="https://linkedin.com/in/roushan-kumar-7bb400239" class="connection-card" style="background: linear-gradient(135deg, rgba(10, 102, 194, 0.1), rgba(10, 102, 194, 0.2));">
-    <div style="font-size: 2rem;">💼</div>
-    <div style="font-weight: bold; color: white;">LinkedIn</div>
-    <div style="font-size: 0.9rem; color: rgba(255,255,255,0.8);">Professional Network</div>
-  </a>
-  
-  <a href="mailto:roushank2515@gmail.com" class="connection-card" style="background: linear-gradient(135deg, rgba(234, 67, 53, 0.1), rgba(234, 67, 53, 0.2));">
-    <div style="font-size: 2rem;">📧</div>
-    <div style="font-weight: bold; color: white;">Email</div>
-    <div style="font-size: 0.9rem; color: rgba(255,255,255,0.8);">Business Inquiries</div>
-  </a>
-  
-  <a href="https://github.com/roushan62" class="connection-card" style="background: linear-gradient(135deg, rgba(24, 23, 23, 0.1), rgba(24, 23, 23, 0.2));">
-    <div style="font-size: 2rem;">💻</div>
-    <div style="font-weight: bold; color: white;">GitHub</div>
-    <div style="font-size: 0.9rem; color: rgba(255,255,255,0.8);">Code & Projects</div>
-  </a>
-  
-  <a href="https://instagram.com/roushan.dev01" class="connection-card" style="background: linear-gradient(135deg, rgba(228, 64, 95, 0.1), rgba(228, 64, 95, 0.2));">
-    <div style="font-size: 2rem;">📱</div>
-    <div style="font-weight: bold; color: white;">Instagram</div>
-    <div style="font-size: 0.9rem; color: rgba(255,255,255,0.8);">Daily Updates</div>
-  </a>
+### 🏗️ **Construction Expertise**
+<div class="skills-grid">
+  <div class="skill-item">Scaffolding Design & Safety</div>
+  <div class="skill-item">Industrial Insulation</div>
+  <div class="skill-item">Structural Maintenance</div>
+  <div class="skill-item">Roofing & Painting</div>
+  <div class="skill-item">Material Management</div>
+  <div class="skill-item">Vendor Coordination</div>
+</div>
+
+### 🔐 **Safety & Compliance**
+<div class="progress-container">
+  <div class="progress-bar" style="width: 95%; background: linear-gradient(90deg, #4CAF50, #8BC34A);">
+    <span>Risk Assessment & PTW Systems</span>
+  </div>
+  <div class="progress-bar" style="width: 90%; background: linear-gradient(90deg, #2196F3, #03A9F4);">
+    <span>Site Safety Audits</span>
+  </div>
+  <div class="progress-bar" style="width: 92%; background: linear-gradient(90deg, #FF9800, #FFC107);">
+    <span>PPE Compliance</span>
+  </div>
+  <div class="progress-bar" style="width: 88%; background: linear-gradient(90deg, #9C27B0, #E91E63);">
+    <span>Incident Prevention</span>
+  </div>
+</div>
+
+---
+
+## 💻 **Tech Stack & ERP Mastery**
+
+### 📈 **Data & Analytics Suite**
+<div align="center">
+
+| Tool | Expertise Level | Primary Use |
+|------|----------------|-------------|
+| ![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=flat-square&logo=microsoft-excel) | ⭐⭐⭐⭐⭐ | Automation, Dashboards, Cost Sheets |
+| ![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=flat-square&logo=powerbi) | ⭐⭐⭐⭐☆ | Operational Dashboards, KPI Tracking |
+| ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql) | ⭐⭐⭐☆☆ | Data Querying, Reporting |
+| ![Power Query](https://img.shields.io/badge/Power_Query-Advanced-0078D4?style=flat-square&logo=microsoft) | ⭐⭐⭐⭐☆ | ETL, Data Transformation |
 
 </div>
 
-<!-- Animated Status Indicator -->
-<div style="margin-top: 2rem; display: flex; align-items: center; justify-content: center; gap: 1rem;">
-  <div style="width: 12px; height: 12px; background: #10b981; border-radius: 50%; animation: pulse 2s infinite;"></div>
-  <div style="color: rgba(255,255,255,0.9); font-size: 1.1rem;">Available for opportunities</div>
+### 🏢 **ERP & Business Systems**
+<div class="erp-grid">
+  <div class="erp-card tally">
+    <h4>Tally ERP / Prime</h4>
+    <p>Accounting, GST, Inventory</p>
+  </div>
+  <div class="erp-card sap">
+    <h4>SAP</h4>
+    <p>Enterprise Resource Planning</p>
+  </div>
+  <div class="erp-card zoho">
+    <h4>Zoho One</h4>
+    <p>Integrated Business Suite</p>
+  </div>
+  <div class="erp-card odoo">
+    <h4>Odoo ERP</h4>
+    <p>Open Source ERP</p>
+  </div>
+  <div class="erp-card oracle">
+    <h4>Oracle</h4>
+    <p>Database & ERP Solutions</p>
+  </div>
+  <div class="erp-card quickbooks">
+    <h4>QuickBooks</h4>
+    <p>Accounting & Finance</p>
+  </div>
 </div>
+
+---
+
+## 💼 **Professional Experience**
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">Nov 2023 – Present</div>
+    <div class="timeline-content">
+      <h3>John Tech Engineers – Gujarat, India</h3>
+      <h4>Operations & Project Management Executive</h4>
+      
+      <div class="achievements">
+        <div class="achievement">
+          <span class="icon">📊</span>
+          <span>Managed full project lifecycle from quotation to billing</span>
+        </div>
+        <div class="achievement">
+          <span class="icon">👷</span>
+          <span>Supervised scaffolding, roofing, painting & industrial maintenance projects</span>
+        </div>
+        <div class="achievement">
+          <span class="icon">📈</span>
+          <span>Developed MIS dashboards for cost monitoring & P&L tracking</span>
+        </div>
+        <div class="achievement">
+          <span class="icon">⚠️</span>
+          <span>Implemented safety protocols, PTW systems & risk assessments</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## 🎓 **Education & Certifications**
+
+<div class="education-grid">
+  <div class="edu-card">
+    <h3>🎓 B.Com (Commerce)</h3>
+    <p>IGNOU, India</p>
+    <span class="status">Expected 2025</span>
+  </div>
+  <div class="edu-card">
+    <h3>🔬 12th (Science Stream)</h3>
+    <p>Bihar School Examination Board</p>
+    <span class="year">2021</span>
+  </div>
+</div>
+
+### 📜 **Certifications**
+<div class="cert-grid">
+  <div class="cert-badge">Process Safety Management (PSM)</div>
+  <div class="cert-badge">Advanced MS Excel</div>
+  <div class="cert-badge">Power BI Data Visualization</div>
+  <div class="cert-badge">Tally ERP & GST</div>
+  <div class="cert-badge">ADCA</div>
+  <div class="cert-badge highlight">🏆 Best Performance Award</div>
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roushan62&theme=dark&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&border_color=444&title_color=00d4ff&icon_color=00d4ff&text_color=fff)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=roushan62&theme=dark&background=0d1117&border=444&stroke=444&ring=00d4ff&fire=00d4ff&currStreakNum=fff&sideNums=fff&currStreakLabel=00d4ff&sideLabels=fff&dates=888)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roushan62&theme=dark&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=fff&border_color=444)
 
 </div>
 
 ---
 
-<div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%); border-radius: 20px; border-top: 3px solid #0ea5e9; position: relative; overflow: hidden;">
+## 🌐 **Connect With Me**
 
-<!-- Animated Construction Background -->
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.1;">
-  <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <pattern id="blueprint" width="100" height="100" patternUnits="userSpaceOnUse">
-        <rect width="100" height="100" fill="none" stroke="#0ea5e9" stroke-width="1"/>
-        <circle cx="50" cy="50" r="5" fill="#10b981"/>
-        <path d="M20,50 L80,50" stroke="#8b5cf6" stroke-width="1"/>
-        <path d="M50,20 L50,80" stroke="#8b5cf6" stroke-width="1"/>
-      </pattern>
-    </defs>
-    <rect width="100%" height="100%" fill="url(#blueprint)"/>
-  </svg>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roushan-kumar-7bb400239)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/roushan.dev01)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roushank2515@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
 </div>
 
-<div style="position: relative; z-index: 2;">
-  <h2 style="color: white; margin-bottom: 1rem;">🏗️ **Building Digital Foundations**</h2>
-  <p style="color: rgba(255,255,255,0.9); max-width: 800px; margin: 0 auto 2rem auto;">
-    Bridging the gap between physical construction operations and digital transformation. 
-    Transforming traditional workflows through data-driven insights and automation.
-  </p>
-  
-  <!-- Animated Footer Badges -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-bottom: 1rem;">
-    <span class="footer-badge" style="background: linear-gradient(135deg, #0ea5e9, #3b82f6);">Operations Expert</span>
-    <span class="footer-badge" style="background: linear-gradient(135deg, #10b981, #22c55e);">Tech Innovator</span>
-    <span class="footer-badge" style="background: linear-gradient(135deg, #8b5cf6, #a78bfa);">Data Analyst</span>
-    <span class="footer-badge" style="background: linear-gradient(135deg, #ec4899, #f472b6);">Safety Leader</span>
-  </div>
-  
-  <div style="color: rgba(255,255,255,0.7); font-size: 0.9rem;">
-    © 2024 Roushan Kumar Gupta | Version 4.0 | Industrial-Tech Fusion
-  </div>
-</div>
+---
+
+<div align="center">
+
+### 🚀 **Currently Working On**
+`Industrial Project Automation` | `Power BI Dashboards` | `ERP Integration` | `Safety Compliance Systems`
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Building%20Tomorrow's%20Operations%20Today&fontSize=20&fontColor=fff)
 
 </div>
 
 <style>
-  /* Animations */
-  @keyframes fill-90 {
-    from { stroke-dashoffset: 339.292; }
-    to { stroke-dashoffset: 34; }
+  .skills-grid, .erp-grid, .education-grid, .cert-grid {
+    display: grid;
+    gap: 15px;
+    margin: 20px 0;
   }
   
-  @keyframes fill-80 {
-    from { stroke-dashoffset: 339.292; }
-    to { stroke-dashoffset: 68; }
+  .skills-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
   
-  @keyframes fill-95 {
-    from { stroke-dashoffset: 339.292; }
-    to { stroke-dashoffset: 17; }
-  }
-  
-  @keyframes fill-100 {
-    from { stroke-dashoffset: 339.292; }
-    to { stroke-dashoffset: 0; }
-  }
-  
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.5; }
-  }
-  
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-  
-  /* Stats Counter Animation */
-  .counter {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: #0ea5e9;
-    text-shadow: 0 0 20px rgba(14, 165, 233, 0.5);
-  }
-  
-  .stat-counter {
+  .skill-item {
+    background: linear-gradient(135deg, #2c3e50, #4ca1af);
+    padding: 12px;
+    border-radius: 8px;
     text-align: center;
-  }
-  
-  .stat-label {
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 0.9rem;
-    margin-top: 0.5rem;
-  }
-  
-  /* Glass Effect */
-  .glass-effect {
-    background: rgba(255, 255, 255, 0.05);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 15px;
-  }
-  
-  /* Tech Tags */
-  .tech-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-top: 1rem;
-  }
-  
-  .tech-tag {
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
     color: white;
-    font-size: 0.9rem;
-    font-weight: 500;
-    transition: transform 0.3s ease;
+    font-weight: bold;
+    transition: transform 0.3s;
   }
   
-  .tech-tag:hover {
-    transform: translateY(-2px);
+  .skill-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
   }
   
-  /* Progress Bars */
-  .progress-section {
-    margin-bottom: 1.5rem;
-  }
-  
-  .progress-header {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 0.5rem;
-    color: white;
-    font-weight: 500;
+  .progress-container {
+    background: #1e1e1e;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
   }
   
   .progress-bar {
-    height: 10px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 5px;
+    height: 25px;
+    border-radius: 12px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    color: white;
+    font-weight: bold;
+    position: relative;
     overflow: hidden;
   }
   
-  .progress-fill {
-    height: 100%;
-    border-radius: 5px;
-    animation: fillWidth 1.5s ease-out forwards;
+  .progress-bar::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    animation: shine 2s infinite;
   }
   
-  @keyframes fillWidth {
-    from { width: 0; }
+  @keyframes shine {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
   }
   
-  /* Connection Grid */
-  .connection-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1.5rem;
+  .erp-grid {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   }
   
-  .connection-card {
-    padding: 1.5rem;
-    border-radius: 15px;
-    text-decoration: none;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    text-align: center;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-  }
-  
-  .connection-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-  }
-  
-  /* Footer Badges */
-  .footer-badge {
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
+  .erp-card {
+    padding: 20px;
+    border-radius: 10px;
     color: white;
-    font-size: 0.9rem;
-    font-weight: 500;
-    animation: float 3s ease-in-out infinite;
+    text-align: center;
+    transition: all 0.3s;
+    cursor: pointer;
   }
   
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-5px); }
+  .erp-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
   }
   
-  /* Responsive */
-  @media (max-width: 768px) {
-    .connection-grid {
-      grid-template-columns: 1fr;
-    }
-    
-    .tech-category {
-      margin-bottom: 2rem;
-    }
+  .tally { background: linear-gradient(135deg, #FF6F61, #FF8A65); }
+  .sap { background: linear-gradient(135deg, #000000, #434343); }
+  .zoho { background: linear-gradient(135deg, #F0652A, #FF8A00); }
+  .odoo { background: linear-gradient(135deg, #EE6A56, #FF8A80); }
+  .oracle { background: linear-gradient(135deg, #F80000, #FF5252); }
+  .quickbooks { background: linear-gradient(135deg, #36B15C, #4CAF50); }
+  
+  .timeline {
+    border-left: 3px solid #00d4ff;
+    padding-left: 30px;
+    margin: 40px 0;
+  }
+  
+  .timeline-item {
+    margin: 30px 0;
+    position: relative;
+  }
+  
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -36px;
+    top: 0;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #00d4ff;
+    border: 3px solid #0d1117;
+  }
+  
+  .timeline-date {
+    background: #00d4ff;
+    color: #0d1117;
+    padding: 5px 15px;
+    border-radius: 20px;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .achievements {
+    display: grid;
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
+  .achievement {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    background: rgba(0, 212, 255, 0.1);
+    border-radius: 8px;
+    border-left: 3px solid #00d4ff;
+  }
+  
+  .education-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+  
+  .edu-card {
+    background: linear-gradient(135deg, #1a2980, #26d0ce);
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  .status, .year {
+    background: rgba(255,255,255,0.2);
+    padding: 3px 10px;
+    border-radius: 15px;
+    font-size: 0.9em;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .cert-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  
+  .cert-badge {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    padding: 12px;
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .cert-badge.highlight {
+    background: linear-gradient(135deg, #f093fb, #f5576c);
+    animation: pulse 2s infinite;
+  }
+  
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(245, 87, 108, 0.7); }
+    70% { box-shadow: 0 0 0 10px rgba(245, 87, 108, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(245, 87, 108, 0); }
+  }
+  
+  h1, h2, h3, h4 {
+    background: linear-gradient(90deg, #00d4ff, #0088cc);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
   }
 </style>
-
-<script>
-  // Typing Animation
-  const titles = [
-    "Operations & Project Management Executive",
-    "Industrial Construction Specialist",
-    "Digital Transformation Leader",
-    "Data-Driven Operations Expert"
-  ];
-  
-  const subtitles = [
-    "Blending construction expertise with tech innovation",
-    "Transforming traditional operations through automation",
-    "Driving efficiency with data analytics & ERP systems",
-    "Building safer, smarter, and more efficient operations"
-  ];
-  
-  let titleIndex = 0;
-  let subtitleIndex = 0;
-  let charIndex = 0;
-  let isDeleting = false;
-  let isEnd = false;
-  
-  function typeWriter() {
-    const titleElement = document.getElementById('typing-title');
-    const subtitleElement = document.getElementById('typing-subtitle');
-    const cursor = document.getElementById('cursor');
-    
-    // Type title
-    if (titleIndex < titles.length) {
-      const currentTitle = titles[titleIndex];
-      
-      if (!isDeleting && charIndex <= currentTitle.length) {
-        titleElement.innerHTML = currentTitle.substring(0, charIndex);
-        charIndex++;
-        setTimeout(typeWriter, 50);
-      } else if (isDeleting && charIndex >= 0) {
-        titleElement.innerHTML = currentTitle.substring(0, charIndex);
-        charIndex--;
-        setTimeout(typeWriter, 30);
-      } else {
-        isDeleting = !isDeleting;
-        if (!isDeleting) {
-          titleIndex++;
-          if (titleIndex >= titles.length) titleIndex = 0;
-        }
-        setTimeout(typeWriter, 1000);
-      }
-    }
-    
-    // Type subtitle (independent timing)
-    setTimeout(() => {
-      if (subtitleIndex < subtitles.length) {
-        subtitleElement.innerHTML = subtitles[subtitleIndex];
-        subtitleIndex++;
-        if (subtitleIndex >= subtitles.length) subtitleIndex = 0;
-      }
-    }, 2000);
-    
-    // Blinking cursor
-    cursor.style.animation = 'blink 1s infinite';
-  }
-  
-  // Start typing animation when page loads
-  document.addEventListener('DOMContentLoaded', () => {
-    setTimeout(typeWriter, 1000);
-    
-    // Animated counters
-    const counters = document.querySelectorAll('.counter');
-    counters.forEach(counter => {
-      const target = +counter.getAttribute('data-target');
-      const increment = target / 100;
-      let current = 0;
-      
-      const updateCounter = () => {
-        if (current < target) {
-          current += increment;
-          counter.innerText = Math.ceil(current);
-          setTimeout(updateCounter, 20);
-        } else {
-          counter.innerText = target;
-        }
-      };
-      
-      setTimeout(updateCounter, 1500);
-    });
-    
-    // Progress bar animations
-    const progressBars = document.querySelectorAll('.progress-fill');
-    progressBars.forEach(bar => {
-      bar.style.width = '0%';
-      setTimeout(() => {
-        bar.style.width = bar.style.width;
-      }, 500);
-    });
-  });
-</script>
